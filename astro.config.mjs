@@ -21,8 +21,8 @@ export default defineConfig({
       noExternal: ['swiper', 'leaflet']
     }
   },
-  site: 'https://hellotham.github.io',
-  base: '/hello-astro',
+  site: 'https://eternaldigitalassets.com/',
+  base: '/',
   integrations: [tailwind(), sitemap(), mdx(), alpinejs(), robotsTxt(), markdoc()],
   experimental: {
     viewTransitions: true,

@@ -14,7 +14,7 @@ const { frontmatter } = Astro.props
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="dark">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
@@ -27,17 +27,7 @@ const { frontmatter } = Astro.props
     <meta name="generator" content={Astro.generator} />
     <SEO frontmatter={frontmatter} />
     <ViewTransitions />
-    <script is:inline>
-      if (
-        localStorage.theme === 'dark' ||
-        (!('theme' in localStorage) &&
-          window.matchMedia('(prefers-color-scheme: dark)').matches)
-      ) {
-        document.documentElement.classList.add('dark')
-      } else {
-        document.documentElement.classList.remove('dark')
-      }
-    </script>
+    
     <style is:inline>
       [x-cloak] { display: none !important; }
       .markmap > svg {

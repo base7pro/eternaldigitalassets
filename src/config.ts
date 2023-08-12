@@ -9,32 +9,30 @@ export interface TagType {
 }
 
 export const SiteMetadata = {
-  title: 'Hello Astro',
-  description: 'An Astro starter for corporate/marketing/blog websites.',
+  title: 'Eternal Digital Assets',
+  description: 'A champion of crypto self-custody solutions and digital estate management.',
   author: {
-    name: 'Chris Tham',
-    twitter: '@chris1tham',
-    url: 'https://christham.net',
-    email: 'chris@christham.net',
-    summary: 'Outrageous actualiser.'
+    name: 'Nic Neon',
+    telegram: '@nicneon',
+    email: 'info@eternaldigitalassets.com',
+    summary: 'The self-custody guy'
   },
   org: {
-    name: 'Hello Tham',
-    twitter: '@hellothamcom',
-    url: 'https://hellotham.com',
-    email: 'info@hellotham.com',
+    name: 'Eternal Digital Assets',
+    twitter: '',
+    url: 'https://eternaldigitalassets.com',
+    email: 'info@eternaldigitalassets.com',
     summary:
-      'Hello Tham is a boutique management consulting firm. We specialise in Business and IT strategies, operating models, strategic roadmaps, enterprise architecture, analytics and business process design.'
+      'Eternal Digital Assets is a company dedicated to responsible self-custody of digital assets. We are a team of cryptocurrency enthusiasts and developers passionate about safe backup and recovery of cryptos. EDA\'s mission is to produce tools and services that facilitate and the trustless and automated transfer of assets. Our goal to create the first user-friendly interface for a multi-encrypted and decentralized digital estate has been realized with the launch of Keyback.io'
   },
-  location: 'Rivendell, Middle Earth',
-  latlng: [-33.86785, 151.20732] as [number, number],
-  repository: 'https://github.com/hellotham/hello-astro',
+  location: 'Delaware, United States',
+  repository: 'https://github.com/base7pro/eternaldigitalassets',
   buildTime: new Date()
 }
 
-export { default as Logo } from './assets/svg/astro/astro-icon-dark.svg'
-export { default as LogoImage } from './assets/astro/astro-logo-dark.png'
-export { default as FeaturedSVG } from './assets/svg/undraw/undraw_design_inspiration.svg'
+export { default as Logo } from './assets/images/eda-logo-icon-blk-lrg.jpg'
+export { default as LogoImage } from './assets/images/eda-lrg.png'
+export { default as FeaturedSVG } from './assets/svg/undraw/undraw_nakamoto_-2-iv6.svg'
 export { default as DefaultSVG } from './assets/svg/undraw/undraw_my_feed.svg'
 export { default as DefaultImage } from './assets/undraw/undraw_my_feed.png'
 
@@ -42,15 +40,14 @@ export const NavigationLinks = [
   { name: 'Home', href: '' },
   { name: 'About', href: 'about' },
   { name: 'Contact', href: 'contact' },
-  { name: 'Blog', href: 'blog' },
-  { name: 'Docs', href: 'doc/introduction' }
+  // { name: 'Blog', href: 'blog' },
+  // { name: 'Docs', href: 'doc/introduction' }
 ]
 
 export const PAGE_SIZE = 6
 
-export const GITHUB_EDIT_URL = `https://github.com/hellotham/hello-astro`
+export const GITHUB_EDIT_URL = `https://github.com/base7pro/eternaldigitalassets`
 
-export const COMMUNITY_INVITE_URL = `https://astro.build/chat`
 
 export type Sidebar = Record<string, { text: string; link: string }[]>
 

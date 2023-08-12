@@ -1,66 +1,40 @@
 ---
 layout: ../layouts/page.astro
 title: About
-description: Description of Hello Astro Starter
+description: About Eternal Digital Assets
 publishDate: '2023-06-13T00:00:00.000Z'
-coverSVG: ../assets/svg/undraw/undraw_about_me.svg
+coverSVG: ../assets/svg/undraw/undraw_bitcoin_re_urgq.svg
 socialImage: ../assets/undraw/undraw_about_me.png
 ---
 
-This is multi-purpose Astro starter template based on the following:
+<br>
 
-- [Astro](https://astro.build/) as a modern static site generator
-- [TypeScript](https://www.typescriptlang.org/)
-- [TailwindCSS](https://tailwindcss.com) and [TailwindUI](https://tailwindui.com)
-- [Iconify](https://iconify.design/)
-- [Hero Patterns](https://heropatterns.com/)
-- [unDraw](https://undraw.co/) for illustrations
-- [Markdown](https://www.markdownguide.org/)
-- [MDX](https://mdxjs.com/)
-- [Markdoc](https://markdoc.dev)
-- [Schema.org](https://schema.org/) and [JSON for Linking Data](https://json-ld.org/), type-checked using [schema-dts](https://github.com/google/schema-dts)
-- [Open Graph](https://ogp.me/) used by [Facebook](https://developers.facebook.com/docs/sharing/webmasters/#markup)
-- [Twitter Cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards)
-- [AlpineJS](https://alpinejs.dev)
-- Local full text search using [Lunr](https://lunrjs.com)
-- Math equations using [KaTeX](https://katex.org) via [remark-math and rehype-katex](https://github.com/remarkjs/remark-math)
-- Diagrams using [Mermaid](https://mermaid-js.github.io/mermaid/#/), [Markmap](https://markmap.js.org) and [PlantUML](https://plantuml.com)
-- Open Street Map using [Leaflet](https://leafletjs.com/)
-- [reading-time](https://github.com/ngryman/reading-time)
-- [PhotoSwipe](https://photoswipe.com)
-- [exifr](https://mutiny.cz/exifr/)
-- [Swiper](https://swiperjs.com/)
-- [Remark Emoji](https://github.com/rhysd/remark-emoji)
+## Our Values
 
-It follows the [JAMstack architecture](https://jamstack.org) by automatically building a static version from the Git repository. The demo is deployed on [Github Pages](https://pages.github.com).
+Since 2017 we have been involved in blockchain projects and we incorporated in 2021 with a mission to make the world a better place for digital asset custodians. We believe you have the right to unfettered ownership and access to your digital assets and we faciliate that with web-based tools and systems. We are currently wokring on a completely autonomous and decentralized web3 implimentation of Keyback that should launch in 2024.
 
-Hello Astro can used for any/all of the following:
+## Our Core Team
 
-- corporate/marketing site
-- blog
-- documentation site
-- portfolio site supporting photo galleries
+#### Nic Fehlberg: Co-CEO/Founder & CMO
 
-This starter is open source (MIT licence) - fork it and customise for your needs.
+Nic is the the founder of Eternal Digital Assets & KeyBack. He is a project management professional with twenty years of experience in
+multiple business verticals, coupled with online and offline marketing and media buying. He headed a successful
+affiliate marketing platform for US-based publishers. Having led developer and marketing teams at companies across
+the United States and Australia, he is a well rounded manager and visionary with Keyback. He currently heads
+affiliate marketing and business development at Keyback. Nic’s mission is to bring simplicity and utility to an
+otherwise over-complicated tech space for new users.
 
-## Features
+#### David Lister: Co-CEO
 
-- Author content in a mix of Markdown, MDX and Markdoc
-- Full-featured blog with frontmatter (title, description, author, date, image, tags)
-- High performance low overhead with minimal Javascript (AlpineJS)
-- Full text client based search of blog pages via lunrjs (search index only loaded on first invocation of search on a page)
-- Index page and individual pages for authors, categories and tags, including pagination
-- Support for RSS feed, sitemap and robots.txt
-- SVG design (unDraw, Hero Patterns, Iconify)
-- Support for code syntax highlighting
-- Full SEO support including Open Graph, Twitter Cards and Schema.org via JSON-LD
-- Full support for light and dark UI modes, as well as following system preferences, in accordance to TailwindCSS recommendation
-- Customised 404 error page
-- Display math equations using KaTeX via remark-math/rehype-katex (enclosed in `$`...`$` or `$$`...`$$`)
-- Display Mermaid, Markmap, PlantUML diagrams (authored as a code block with language `mermaid`, `markmap` and `plantuml`)
-- Display map at geo coordinates and zoom level using `Map` component (need to also include `extra: ['map']` in frontmatter to load CSS/JS assets for page)
-- Calculates and show reading time for blog posts
-- CSS/JS assets of external libraries loaded only when needed on a per page and per package basis - no unnecessary bloat
-- Photo gallery and lightbox using PhotoSwipe (including display of EXIF tags)
-- Carousel component using Swiper
-- Documentation pages (modelled after astro docs starter but using Tailwind)
+David has experience and professional credentials in business, psychology, theology and marketing. As a successful
+entrepreneur in Australia his company Australian Web Hosting and Australian Web Developers, he was a significant
+and influential player in the web design and hosting space. He is a champion of blockchain and the positive impact it
+can bring to humanity and seeks to advance this through Keyback. As CEO, David’s mission is to expand the
+company’s reach and vision to engage with crypto investors and traders, to grow the crypto space and enhance
+visibility of our partners in the space.
+
+### Eternal Digital Assets LLC
+
+8 The Green, Suite B<br>
+Dover, DE 19901<br>
+United States
