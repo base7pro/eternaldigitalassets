@@ -8,6 +8,8 @@ export interface TagType {
   pages: CollectionEntry<'blog'>[]
 }
 
+export const COMMUNITY_INVITE_URL = ''
+
 export const SiteMetadata = {
   title: 'Eternal Digital Assets',
   description: 'A champion of crypto self-custody solutions and digital estate management.',
