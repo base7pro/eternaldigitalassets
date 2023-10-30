@@ -14,7 +14,7 @@ socialImage: ../assets/undraw/undraw_about_me.png
 Since 2017 we have been involved in blockchain projects and we incorporated in 2021 with a mission to make the world a better place for digital asset custodians. We believe you have the right to unfettered ownership and access to your digital assets and we faciliate that with web-based tools and systems. We are currently wokring on a completely autonomous and decentralized web3 implimentation of Keyback that should launch in 2024.
 <br>
 
-#### Nic Fehlberg: Founder & CMO
+#### Nic Fehlberg: Founder & CEO
 
 <img style="float: left; margin-right: 40px; height:300px;" src="nick-stylized-circle-3.png">
 Nic is the the founder of Eternal Digital Assets & KeyBack. He is a project management professional with twenty years of experience in
