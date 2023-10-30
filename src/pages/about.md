@@ -16,7 +16,6 @@ Since 2017 we have been involved in blockchain projects and we incorporated in 2
 
 #### Nic Fehlberg: Founder & CEO
 
-<img style="float: left; margin-right: 40px; height:300px;" src="nick-stylized-circle-3.png">
 Nic is the the founder of Eternal Digital Assets & KeyBack. He is a project management professional with twenty years of experience in
 multiple business verticals, coupled with online and offline marketing and media buying. He headed a successful
 affiliate marketing platform for US-based publishers. Having led developer and marketing teams at companies across
