@@ -14,19 +14,6 @@ socialImage: ../assets/undraw/undraw_about_me.png
 Since 2017 we have been involved in blockchain projects and we incorporated in 2021 with a mission to make the world a better place for digital asset custodians. We believe you have the right to unfettered ownership and access to your digital assets and we faciliate that with web-based tools and systems. We are currently wokring on a completely autonomous and decentralized web3 implimentation of Keyback that should launch in 2024.
 <br>
 
-## Our Core Team
-
-#### David Lister: CEO
-
-<img style="float: left; margin-right: 40px; height:300px;" src="dave-stylized-circle-3.png">
-David has experience and professional credentials in business, psychology, theology and marketing. As a successful
-entrepreneur in Australia his company Australian Web Hosting and Australian Web Developers, he was a significant
-and influential player in the web design and hosting space. He is a champion of blockchain and the positive impact it
-can bring to humanity and seeks to advance this through Keyback. As CEO, David’s mission is to expand the
-company’s reach and vision to engage with crypto investors and traders, to grow the crypto space and enhance
-visibility of our partners in the space.
-<br><br>
-
 #### Nic Fehlberg: Founder & CMO
 
 <img style="float: left; margin-right: 40px; height:300px;" src="nick-stylized-circle-3.png">
